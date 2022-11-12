@@ -1,5 +1,6 @@
 ### 👋Hi there! I'm Hyoungmin Kim.</br> Nice to meet you😄
 
+### 💻 Skills
 #### 📢 Languages</br> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
 
 #### 🔨 Framework</br> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white">
