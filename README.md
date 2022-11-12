@@ -2,7 +2,8 @@
 
 #### 📢 Languages
 #### 🔨 Framework
-#### 🌏 IDE <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-squarec&logo=Eclipse&logoColor=white">
+#### 🌏 IDE
+<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-squarec&logo=Eclipse&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-0000?style=flat-squarec&logo=Eclipse&logoColor=white">
 
 
 <!--
