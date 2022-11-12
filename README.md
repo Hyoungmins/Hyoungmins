@@ -1,4 +1,4 @@
-### Way to meet me👌</br> <a href="https://hyoungmins.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white">
+### About me👌</br> <a href="https://hyoungmins.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white">
 
 ### 👋Hi there! I'm Hyoungmin Kim.</br> Nice to meet you😄
 
