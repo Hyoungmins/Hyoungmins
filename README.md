@@ -1,5 +1,5 @@
 ### About me👀</br> <a href="https://hyoungmins.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=Tistory&logoColor=white"> <a href="mailto:pinks1226@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-#### 👋Hi there! I'm Hyoungmin Kim.</br> Nice to meet you😄</br>
+  #### 👋Hi there! I'm Hyoungmin Kim.</br> Nice to meet you😄</br>
 
 ### 📁 Skills
 ---
