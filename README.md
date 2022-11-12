@@ -1,6 +1,6 @@
 ### 👋Hi there! I'm Hyoungmin Kim.</br> Nice to meet you😄
 
-### My Information</br> <a href="https://hyoungmins.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white">
+### Way to meet me</br> <a href="https://hyoungmins.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white">
 
 ### 📢 Language</br> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></br> 🔨 Framework</br> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"></br> 🌏 IDE</br> <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white">
 
