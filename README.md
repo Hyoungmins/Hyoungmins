@@ -1,4 +1,4 @@
-### About me👀</br> <a href="https://hyoungmins.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=Tistory&logoColor=white"> <a href="pinks1226@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white">
+### About me👀</br> <a href="https://hyoungmins.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=Tistory&logoColor=white"> <"pinks1226@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white">
 
 #### 👋Hi there! I'm Hyoungmin Kim.</br> Nice to meet you😄
 
