@@ -1,10 +1,10 @@
 ### 👋Hi there! I'm Hyoungmin Kim.  Nice to meet you😄 
 
 #### 💻 Skills
-***
 #### 📢 Languages
 #### 🔨 Framework
-#### 🌏 IDE <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=plastic&logo=Eclipse&logoColor=white">
+#### 🌏 IDE
+<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=plastic&logo=Eclipse&logoColor=white">
 
 <!--
 **hyoungmins/hyoungmins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
