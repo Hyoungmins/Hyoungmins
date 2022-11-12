@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋Hi there! I'm Hyoungmin Kim.
+#### Nice to meet you😄 
+
+#### 💻 Skills
+#### 📢 Languages
+
+#### 🔨 Framework
+
+#### 🌏 IDE
 
 <!--
 **hyoungmins/hyoungmins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
