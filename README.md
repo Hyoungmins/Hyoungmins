@@ -1,6 +1,5 @@
-### 👋Hi there! I'm Hyoungmin Kim.  Nice to meet you😄 
+### 👋Hi there! I'm Hyoungmin Kim.   Nice to meet you😄 
 
-#### 💻 Skills
 #### 📢 Languages
 #### 🔨 Framework
 #### 🌏 IDE
