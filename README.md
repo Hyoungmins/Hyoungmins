@@ -1,6 +1,7 @@
 ### About me 👀
 <p>
-  <a href="https://hyoungmins.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-000000?style=plastic&logo=Tistory&logoColor=white"/></a>   <a href="mailto:pinks1226@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
+  <a href="https://hyoungmins.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-000000? style=plastic&logo=Tistory&logoColor=white"/></a>
+  <a href="mailto:pinks1226@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
 </p>
 
 > #### 👋&nbsp; Hi there! I'm Hyoungmin Kim.</br> Nice to meet you😄
